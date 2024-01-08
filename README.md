@@ -1,50 +1,25 @@
-# Flutter Calculator App 
-Overview
-Welcome to the Flutter Calculator App! This simple calculator application is built using Flutter, a UI toolkit developed by Google for creating natively compiled applications for mobile, web, and desktop from a single codebase.
+# Flutter Calculator App Readme
 
-Features
-Basic arithmetic operations: addition, subtraction, multiplication, and division.
-Clear and intuitive user interface.
-Responsive design for various screen sizes.
-Getting Started
-To run the Flutter Calculator App on your local machine, follow these steps:
+## Overview
 
-Prerequisites
-Make sure you have Flutter and Dart installed on your machine. If not, follow the official Flutter installation guide.
-Clone the Repository
-bash
-Copy code
-git clone https://github.com/your-username/flutter-calculator-app.git
-cd flutter-calculator-app
-Install Dependencies
-bash
-Copy code
-flutter pub get
-Run the App
-bash
-Copy code
-flutter run
-This will launch the app on your connected device or simulator/emulator.
+Welcome to the Flutter Calculator App – a lightweight yet powerful calculator application built using Flutter, Google's UI toolkit for creating cross-platform applications. This app provides a seamless and intuitive user experience for performing basic arithmetic calculations.
 
-Usage
-Launch the app on your device or emulator.
-Perform arithmetic calculations using the calculator interface.
-Enjoy a simple and responsive calculator experience!
-Screenshots
-Include screenshots of your calculator app to showcase its user interface.
+## Features
 
-Contributing
-If you'd like to contribute to the development of this Flutter Calculator App, please follow the contribution guidelines.
+- **Basic Arithmetic Operations:** Addition, subtraction, multiplication, and division.
+- **User-Friendly Interface:** Clear and intuitive design for ease of use.
+- **Responsive Design:** Ensures optimal performance across various screen sizes.
 
-License
-This Flutter Calculator App is open-source and released under the MIT License.
+## Getting Started
 
-Acknowledgments
-Thank you to the Flutter and Dart communities for their contributions and support.
-This app was inspired by the need for a simple and efficient calculator.
-Feel free to customize this readme file based on your specific app and preferences. Good luck with your Flutter Calculator App!
+To run the Flutter Calculator App locally, follow these steps:
 
+### Prerequisites
 
+1. Ensure that you have Flutter and Dart installed on your machine. Refer to the [official Flutter installation guide](https://flutter.dev/docs/get-started/install) for assistance.
 
+### Clone the Repository
 
-
+```bash
+git clone https://github.com/Prakharyadav27/Calculator_App.git
+cd Calculator_App
